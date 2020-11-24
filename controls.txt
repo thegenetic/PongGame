@@ -1,0 +1,8 @@
+For Player1:
+    "w" -> up
+    "s" -> down
+    (case sensitive)
+
+For Player2:
+    "Up key" -> up
+    "Down key" -> down
